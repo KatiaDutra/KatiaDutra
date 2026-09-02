@@ -3,7 +3,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=KatiaDutra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/KatiaDutra)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaDutra&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/KatiaDutra)
 
-### 🎯 Em transição de carreira para Business Intelligence
+### Em transição de carreira para Business Intelligence
 
 Analisando dados, construindo dashboards e automatizando processos de ETL. Foco em transformar dados brutos em decisões de negócio.
 
@@ -16,7 +16,7 @@ Analisando dados, construindo dashboards e automatizando processos de ETL. Foco 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Projetos em destaque
+### Projetos em destaque
 
 - **[bi_vendas_sr](https://github.com/KatiaDutra/bi_vendas_sr)** — Painel de vendas e margem de lucro (2020–2026), com ETL em Power Query e anonimização de dados em Python.
 - **[piloto_bi_dashboard](https://github.com/KatiaDutra/piloto_bi_dashboard)** — TCC sobre separação financeira PF x PJ em microempresas, com 3 painéis de BI validados em estudo de caso real.
