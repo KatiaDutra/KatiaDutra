@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Kátia Dutra 😁
+## Bem-vindo(a) ao perfil de Kátia Dutra
 
 [![](https://github-readme-stats.vercel.app/api?username=KatiaDutra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/KatiaDutra)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaDutra&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/KatiaDutra)
