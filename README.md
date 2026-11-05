@@ -18,7 +18,7 @@ Solução de BI construída do zero para uma empresa do comércio, com históric
 
 `Power BI` `DAX` `Power Query` `Python` `Pandas`
 
-### [BI para separação financeira PF x PJ em microempresas](https://github.com/KatiaDutra/bi_financeiro_sr) · TCC 🚧
+### [BI para separação financeira PF x PJ em microempresas](https://github.com/KatiaDutra/bi_financeiro_sr) · TCC
 Estudo de caso com uma microempresa real para validar 3 painéis: separação PF x PJ, pró-labore seguro e margem real por produto.
 
 `Python` `Pandas` `Excel` `Power Query` `Power BI`
@@ -29,7 +29,7 @@ Estudo de caso com uma microempresa real para validar 3 painéis: separação PF
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [Freguês](https://github.com/KatiaDutra/fregues) 🚧 | Atendimento, pedidos e fidelidade para pequenos negócios de alimentação, com IA e custo zero. Trabalho final da residência Bolsa Futuro Digital | JavaScript, Firebase, Cloudflare Workers |
+| [Freguês](https://github.com/KatiaDutra/fregues) | Atendimento, pedidos e fidelidade para pequenos negócios de alimentação, com IA e custo zero. Trabalho final da residência Bolsa Futuro Digital | JavaScript, Firebase, Cloudflare Workers |
 | [FocoCerto](https://github.com/KatiaDutra/gerenciador-de-tarefas) · [demo](https://katiadutra.github.io/gerenciador-de-tarefas/) | Gerenciador de tarefas com login e aba de estatísticas em gráficos | JavaScript, Firebase, Chart.js |
 | [Consulta do Tempo](https://github.com/KatiaDutra/consulta_meteorologica) · [demo](https://katiadutra.github.io/consulta_meteorologica/) | Condições atuais e previsão de 5 dias, com cidades favoritas | JavaScript, API Open-Meteo |
 
@@ -75,7 +75,6 @@ Compartilho conteúdo sobre BI e dados no Instagram. Me chama por lá ou pelo Li
 [![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katiadutrassantos@gmail.com)
 
 <details>
-<summary>Estatísticas do GitHub</summary>
 
 <br>
 
