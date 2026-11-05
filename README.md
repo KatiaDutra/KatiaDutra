@@ -18,7 +18,7 @@ Solução de BI construída do zero para uma empresa do comércio, com históric
 
 `Power BI` `DAX` `Power Query` `Python` `Pandas`
 
-### [BI para separação financeira PF x PJ em microempresas](https://github.com/KatiaDutra/bi_financeiro_sr) · TCC
+### [BI para separação financeira PF x PJ em microempresas](https://github.com/KatiaDutra/bi_financeiro_sr) 
 Estudo de caso com uma microempresa real para validar 3 painéis: separação PF x PJ, pró-labore seguro e margem real por produto.
 
 `Python` `Pandas` `Excel` `Power Query` `Power BI`
@@ -73,12 +73,3 @@ Compartilho conteúdo sobre BI e dados no Instagram. Me chama por lá ou pelo Li
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A1tia-dutra-ss)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/katiadutrass/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katiadutrassantos@gmail.com)
-
-<details>
-
-<br>
-
-[![](https://github-readme-stats.vercel.app/api?username=KatiaDutra&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/KatiaDutra)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaDutra&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/KatiaDutra)
-
-</details>
